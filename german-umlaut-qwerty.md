@@ -4,7 +4,7 @@ A manual to use a QWERTY layout with German umlauts (ö,ä,ü) with a Mac. Press
 
 ## 1. Install the layout
 
-You can download it [here](./assets/german-umlaut-keyboard-layout.keylayout).
+You can download it [here](https://downgit.github.io/#/home?url=https://github.com/samuelstroschein/documents/blob/main/assets/german-umlaut-keyboard-layout.keylayout). _if the download link does not work, find the raw file [here](./assets/german-umlaut-keyboard-layout.keylayout)_
 
 ## 2. Switch to the layout
 
